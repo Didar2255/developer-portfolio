@@ -7,3 +7,26 @@ h1{
 .Orenge{
     color:orange;
 }
+section{
+  display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-butten{
+    text-decoration:none;
+    background-image: linear-gradient(tomato,salmon
+    );
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.banar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
